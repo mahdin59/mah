@@ -36,5 +36,3 @@ docker compose up --build
 
 
 screen -r log
-
-
